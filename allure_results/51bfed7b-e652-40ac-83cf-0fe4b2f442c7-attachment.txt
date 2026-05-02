@@ -1,0 +1,4 @@
+[32mINFO    [0m conftest:conftest.py:58 Номер заказа (track): 403401
+[32mINFO    [0m conftest:conftest.py:67 id заказа: 667451
+[32mINFO    [0m methods.order_methods:order_methods.py:29 id заказа: 667451 принят курьером
+[32mINFO    [0m conftest:conftest.py:76 Заказ с номером (track): 403401 отменен

@@ -1,0 +1,4 @@
+[32mINFO    [0m conftest:conftest.py:58 Номер заказа (track): 340886
+[32mINFO    [0m conftest:conftest.py:67 id заказа: 667452
+[32mINFO    [0m methods.order_methods:order_methods.py:29 id заказа: 667452 принят курьером 999999
+[32mINFO    [0m conftest:conftest.py:76 Заказ с номером (track): 340886 отменен

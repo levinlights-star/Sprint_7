@@ -1,0 +1,2 @@
+[32mINFO    [0m conftest:conftest.py:58 Номер заказа (track): 179941
+[32mINFO    [0m conftest:conftest.py:76 Заказ с номером (track): 179941 отменен

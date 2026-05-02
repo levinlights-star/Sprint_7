@@ -1,0 +1,4 @@
+[32mINFO    [0m conftest:conftest.py:23 Сгенерированные данные: {'login': 'eczrmzridj', 'password': 'jhsklrnxst', 'firstName': 'zoekmmhknm'}
+[32mINFO    [0m conftest:conftest.py:37 id курьера: 740118
+[32mINFO    [0m test_courier_create:test_courier_create.py:27 Сгенерированные данные: {'login': 'eczrmzridj', 'password': 'jhsklrnxst', 'firstName': 'zoekmmhknm'}
+[32mINFO    [0m conftest:conftest.py:46 Курьер 740118 удален из БД

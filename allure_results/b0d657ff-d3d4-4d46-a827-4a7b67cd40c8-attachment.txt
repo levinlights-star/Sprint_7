@@ -1,0 +1,1 @@
+[32mINFO    [0m test_order_create:test_order_create.py:35 Номер заказа: 196502

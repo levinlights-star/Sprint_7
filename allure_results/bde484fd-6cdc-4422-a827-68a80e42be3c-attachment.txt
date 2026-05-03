@@ -1,0 +1,4 @@
+[32mINFO    [0m conftest:conftest.py:23 Сгенерированные данные: {'login': 'ygpbzdwayo', 'password': 'xfygzvszni', 'firstName': 'oalvzyzoyi'}
+[32mINFO    [0m conftest:conftest.py:37 id курьера: 740348
+[32mINFO    [0m methods.order_methods:order_methods.py:25 id заказа: 999999 принят курьером 740348
+[32mINFO    [0m conftest:conftest.py:46 Курьер 740348 удален из БД

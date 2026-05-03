@@ -17,8 +17,7 @@ class TestCourierDelete:
 
         with allure.step("Проверка статуса успешного создания 200"):
             assert response.status_code == 200, f"Ожидается статус 200, получен статус {response.status_code}"
-        with allure.step("Проверка успешного сообщения"):
-            logger.info(f"Курьер: {courier_id} удален из БД")
+        with allure.step("Проверка успешного сообщения об удалении курьера"):
             assert response.json() == {"ok": True}
 
     @allure.title("Удаление курьера с несуществующим id вызывает ошибку 404")

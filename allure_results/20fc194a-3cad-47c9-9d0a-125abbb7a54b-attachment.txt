@@ -1,0 +1,1 @@
+[32mINFO    [0m test_courier_create:test_courier_create.py:17 Сгенерированные данные: {'login': 'yvwirlwwhm', 'password': 'tvgtkadnpm', 'firstName': 'rdpyvndygb'}

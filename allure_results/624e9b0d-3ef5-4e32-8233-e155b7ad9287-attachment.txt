@@ -1,3 +1,0 @@
-[32mINFO    [0m conftest:conftest.py:23 Сгенерированные данные: {'login': 'jnjmseyvxb', 'password': 'vjposdeujk', 'firstName': 'gmbmryghkd'}
-[32mINFO    [0m conftest:conftest.py:37 id курьера: 740120
-[32mINFO    [0m conftest:conftest.py:46 Курьер 740120 удален из БД

@@ -1,0 +1,7 @@
+[32mINFO    [0m conftest:conftest.py:23 Сгенерированные данные: {'login': 'kahazrbsxg', 'password': 'hcqhkmmmpv', 'firstName': 'betdnziimt'}
+[32mINFO    [0m conftest:conftest.py:37 id курьера: 740346
+[32mINFO    [0m conftest:conftest.py:58 Номер заказа (track): 370072
+[32mINFO    [0m conftest:conftest.py:67 id заказа: 667602
+[32mINFO    [0m methods.order_methods:order_methods.py:25 id заказа: 667602 принят курьером 740346
+[32mINFO    [0m conftest:conftest.py:76 Заказ с номером (track): 370072 отменен
+[32mINFO    [0m conftest:conftest.py:46 Курьер 740346 удален из БД

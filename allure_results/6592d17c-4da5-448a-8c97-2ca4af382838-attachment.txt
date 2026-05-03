@@ -1,0 +1,4 @@
+[32mINFO    [0m conftest:conftest.py:58 Номер заказа (track): 660050
+[32mINFO    [0m conftest:conftest.py:67 id заказа: 667605
+[32mINFO    [0m methods.order_methods:order_methods.py:25 id заказа: 667605 принят курьером 999999
+[32mINFO    [0m conftest:conftest.py:76 Заказ с номером (track): 660050 отменен

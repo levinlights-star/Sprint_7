@@ -11,10 +11,10 @@ logger = logging.getLogger(__name__)
 class TestCourierCreate:
 
     @allure.title("Успешное создание курьера возвращает статус 201")
-    def test_create_courier_success(self, created_courier, courier_id_for_cleanup):
+    def test_create_courier_success(self, courier_data):
         with allure.step("Создание курьера"):
-            response, courier_data = created_courier
-
+            response = CourierMethods.create_courier(courier_data)
+        logger.info(f"Сгенерированные данные: {courier_data}")
         with allure.step("Проверка статуса успешного создания 201"):
             assert response.status_code == 201,  f"Ожидается статус 201, получен статус {response.status_code}"
         with allure.step("Проверка успешного сообщения"):

@@ -1,0 +1,4 @@
+[32mINFO    [0m conftest:conftest.py:23 Сгенерированные данные: {'login': 'ioplpihqxp', 'password': 'ujvbysdfkc', 'firstName': 'jeyvkmubgy'}
+[32mINFO    [0m conftest:conftest.py:37 id курьера: 740343
+[32mINFO    [0m test_courier_create:test_courier_create.py:27 Сгенерированные данные: {'login': 'ioplpihqxp', 'password': 'ujvbysdfkc', 'firstName': 'jeyvkmubgy'}
+[32mINFO    [0m conftest:conftest.py:46 Курьер 740343 удален из БД

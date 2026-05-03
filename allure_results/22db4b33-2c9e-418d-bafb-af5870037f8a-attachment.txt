@@ -1,0 +1,2 @@
+[32mINFO    [0m conftest:conftest.py:23 Сгенерированные данные: {'login': 'dwgsglctgr', 'password': 'hauciuniap', 'firstName': 'mapjcyznyl'}
+[32mINFO    [0m conftest:conftest.py:37 id курьера: 740344

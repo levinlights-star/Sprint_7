@@ -1,7 +1,0 @@
-[32mINFO    [0m conftest:conftest.py:23 Сгенерированные данные: {'login': 'itybrktafb', 'password': 'gfedgxyfnc', 'firstName': 'nuxssngmri'}
-[32mINFO    [0m conftest:conftest.py:37 id курьера: 740121
-[32mINFO    [0m conftest:conftest.py:58 Номер заказа (track): 565156
-[32mINFO    [0m conftest:conftest.py:67 id заказа: 667449
-[32mINFO    [0m methods.order_methods:order_methods.py:29 id заказа: 667449 принят курьером 740121
-[32mINFO    [0m conftest:conftest.py:76 Заказ с номером (track): 565156 отменен
-[32mINFO    [0m conftest:conftest.py:46 Курьер 740121 удален из БД
